@@ -1,0 +1,18 @@
+.navbar {
+    background-color: orange;
+}
+
+.navbar .nav-link {
+    color: white !important;
+    text-align: right;
+}
+
+.navbar .nav-link:hover {
+    color: red !important;
+    font-weight: bold;
+}
+
+.navbar .navbar-toggler {
+    border: none;
+}
+
